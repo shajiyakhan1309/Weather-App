@@ -58,7 +58,7 @@ python app.py
 
 - **Frontend:** HTML, CSS, Javascript
   
-- **API:** [Add weather API provider]
+- **API:** http://worldtimeapi.org/api/timezone/Asia/Kolkata
 
 
 ## Project Structure
@@ -85,4 +85,4 @@ Contributions are welcome! Please follow these steps:
 
 ## Acknowledgments
 
-- [Weather API provider]
+- http://worldtimeapi.org/api/timezone/Asia/Kolkata
