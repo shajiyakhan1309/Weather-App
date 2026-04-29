@@ -18,7 +18,7 @@ This Weather App is designed to deliver accurate, up-to-date weather forecasts w
 
 ### Prerequisites
 
-- [List any requirements, e.g., Node.js v14+, Python 3.8+, etc.]
+- Html, CSS, Javascript
 
 ### Installation
 
