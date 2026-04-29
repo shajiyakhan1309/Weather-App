@@ -56,14 +56,10 @@ python app.py
 
 ## Technology Stack
 
-- **Frontend:** [Add your frontend technologies]
-- **Backend:** [Add your backend technologies]
+- **Frontend:** HTML, CSS, Javascript
+  
 - **API:** [Add weather API provider]
-- **Database:** [Add if applicable]
 
-## API Reference
-
-[Add details about your API endpoints and usage]
 
 ## Project Structure
 
@@ -86,15 +82,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the [Add your license] License - see the LICENSE file for details.
-
-## Support
-
-For support, email [your-email@example.com] or open an issue on GitHub.
 
 ## Acknowledgments
 
 - [Weather API provider]
-- [Any libraries or resources you used]
